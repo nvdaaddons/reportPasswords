@@ -1,6 +1,6 @@
 # Informar Senhas (Report Passwords) #
 
-* Authors: Noelia Ruiz Martínez
+* Autores: Noelia Ruiz Martínez
 
 Esse complemento adiciona a opção de falar o texto digitado em controles
 protegidos, como senhas, como ao fazer login em sites de e-mail baseados na
@@ -25,15 +25,15 @@ comando (gesto) ou crie um disparador para ativá-lo automaticamente em
 determinadas situações. Por conveniência, o NVDA perguntará se você deseja
 criar um perfil dedicado quando o complemento estiver instalado.
 
-## Changes for 4.0 ##
-* Compatible with NVDA 2023.1.
+## Alterações na 4.0 ##
+* Compatível com o NVDA 2023.1.
 
-## Changes for 3.0 ##
-* Cannot be run in secure mode.
-* Compatible with NVDA 2022.1.
+## Alterações na 3.0 ##
+* Não pode ser executado em modo seguro.
+* Compatível com o NVDA 2022.1.
 
-## Changes for 2.0 ##
-* Compatible with NVDA 2021.1.
+## Alterações na 2.0 ##
+* Compatível com o NVDA 2021.1.
 
 ## Alterações na 1.0 ##
 * Versão inicial.
